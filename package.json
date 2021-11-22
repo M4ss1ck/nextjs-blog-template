@@ -1,5 +1,9 @@
 {
   "private": true,
+  "name": "nextjs-blog-template",
+  "description": "Blog template usando Nextjs y tailwindCSS",
+  "version": "1.0.0",
+  "author": "Massick",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
