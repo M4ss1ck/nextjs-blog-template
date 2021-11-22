@@ -9,5 +9,5 @@ yarn create next-app [project-name] -e https://github.com/M4ss1ck/nextjs-blog-te
 # or
 npx create-next-app [project-name] -e https://github.com/M4ss1ck/nextjs-blog-template
 # or
-pnpm create-next-app [project-name] -e https://github.com/M4ss1ck/nextjs-blog-template
+pnpm dlx create-next-app [project-name] -e https://github.com/M4ss1ck/nextjs-blog-template
 ```
